@@ -1,5 +1,4 @@
 # 💫 About Me:
-Vamtech energy solution Pvt Ltd
 
 
 # 💻 Tech Stack:
